@@ -31,7 +31,7 @@ object WeTypeAppearanceColorGroups {
         WeTypeAppearanceColorGroup(
             id = "theme_color",
             displayName = "品牌强调色",
-            defaultColor = 0xFF23c891.toInt(),
+            defaultColor = 0xFF3478F5.toInt(),
             colorMode = WeTypeAppearanceColorMode.HueShift,
             colorResourceNames = setOf(
                 "Brand", "Brand_100", "Brand_100_CARE", "Brand_120", "Brand_170",
